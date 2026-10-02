@@ -275,6 +275,7 @@
     <string name="home_installed_app_picker_filter_system">Aipeanna córais amháin</string>
     <string name="home_invalid_apk_unreadable">Níorbh fhéidir an comhad a léamh. Seiceáil nach bhfuil srian ceallraí ar \'Stóráil Sheachtrach\'</string>
     <string name="home_invalid_apk_not_an_apk">Ní APK bailí an comhad roghnaithe</string>
+    <string name="home_invalid_apk_already_patched">Tá an APK roghnaithe paisteáilte cheana féin. Roghnaigh an aip bhunaidh ina ionad</string>
     <string name="home_invalid_apk_io_error">Theip ar an gcomhad a oscailt. Déan iarracht arís.</string>
     <string name="home_external_apk_expert_mode_required">Níl an ghné seo ar fáil ach amháin i mód Saineolaí</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->

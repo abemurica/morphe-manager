@@ -275,6 +275,7 @@ Allt sem þú bætir við frá þessari vefsíðu er notað á eigin ábyrgð."<
     <string name="home_installed_app_picker_filter_system">Aðeins kerfisforrit</string>
     <string name="home_invalid_apk_unreadable">Gat ekki lesið skrána. Athyglið að „Utanlandsgagnagáfa“ er ekki takmarkað af rafhlöðu</string>
     <string name="home_invalid_apk_not_an_apk">Valda skráin er ekki gilt APk</string>
+    <string name="home_invalid_apk_already_patched">Valið APK er þegar plástrað. Veldu upprunalega appið í staðinn</string>
     <string name="home_invalid_apk_io_error">Gat ekki opnað skrána. Reyndu aftur</string>
     <string name="home_external_apk_expert_mode_required">Þessi eiginleiki er eingöngu fáanlegur á sérfærnisstillingu</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->

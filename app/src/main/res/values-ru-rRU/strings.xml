@@ -275,6 +275,7 @@
     <string name="home_installed_app_picker_filter_system">Только системные приложения</string>
     <string name="home_invalid_apk_unreadable">Не удалось прочитать файл. Убедитесь, что \'Внешнее хранилище\' не ограничено по энергопотреблению</string>
     <string name="home_invalid_apk_not_an_apk">Выбранный файл не является допустимым APK</string>
+    <string name="home_invalid_apk_already_patched">Выбранный APK уже пропатчен. Выберите вместо этого оригинальное приложение</string>
     <string name="home_invalid_apk_io_error">Не удалось открыть файл. Пожалуйста, попробуйте еще раз</string>
     <string name="home_external_apk_expert_mode_required">Эта функция доступна только в режиме эксперта</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->

@@ -275,6 +275,7 @@
     <string name="home_installed_app_picker_filter_system">تطبيقات النظام فقط</string>
     <string name="home_invalid_apk_unreadable">⁯لا يمكن قراءة الملف. تحقق من أن \'وحدة التخزين الخارجية\' غير مقيدة بالبطارية</string>
     <string name="home_invalid_apk_not_an_apk">الملف المحدد ليس ملف APK صالحًا</string>
+    <string name="home_invalid_apk_already_patched">ملف APK المحدد تم تعديله بالفعل. يرجى اختيار التطبيق الأصلي بدلًا منه</string>
     <string name="home_invalid_apk_io_error">فشل فتح الملف. الرجاء المحاولة مرة أخرى</string>
     <string name="home_external_apk_expert_mode_required">هذه الميزة متاحة فقط في وضع الخبير</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->

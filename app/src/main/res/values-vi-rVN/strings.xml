@@ -275,6 +275,7 @@ Bất cứ thứ gì bạn thêm từ trang web này đều được sử dụng
     <string name="home_installed_app_picker_filter_system">Chỉ ứng dụng hệ thống</string>
     <string name="home_invalid_apk_unreadable">Không thể đọc tệp. Hãy kiểm tra xem \"Bộ nhớ ngoài\" có bị hạn chế pin hay không</string>
     <string name="home_invalid_apk_not_an_apk">Tệp đã chọn không phải là tệp APK hợp lệ</string>
+    <string name="home_invalid_apk_already_patched">APK đã chọn đã được vá. Thay vào đó, hãy chọn ứng dụng gốc</string>
     <string name="home_invalid_apk_io_error">Không thể mở tệp. Vui lòng thử lại</string>
     <string name="home_external_apk_expert_mode_required">Tính năng này chỉ có ở chế độ Chuyên gia</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->

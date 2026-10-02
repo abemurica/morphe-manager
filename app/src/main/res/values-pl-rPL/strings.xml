@@ -276,6 +276,7 @@ Wszystko, co dodasz z tej strony, używasz na własne ryzyko"</string>
     <string name="home_installed_app_picker_filter_system">Tylko aplikacje systemowe</string>
     <string name="home_invalid_apk_unreadable">Nie udało się odczytać pliku. Sprawdź, czy \"Pamięć zewnętrzna\" nie ma włączonych ograniczeń baterii</string>
     <string name="home_invalid_apk_not_an_apk">Wybrany plik nie jest prawidłowym plikiem APK</string>
+    <string name="home_invalid_apk_already_patched">Wybrany plik APK został już zmodyfikowany. Zamiast tego wybierz oryginalną aplikację</string>
     <string name="home_invalid_apk_io_error">Nie udało się otworzyć pliku. Spróbuj ponownie</string>
     <string name="home_external_apk_expert_mode_required">Ta funkcja jest dostępna tylko w trybie eksperckim</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->

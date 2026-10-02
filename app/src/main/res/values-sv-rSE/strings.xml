@@ -275,6 +275,7 @@ Allt du lägger till från den här webbplatsen används på egen risk"</string>
     <string name="home_installed_app_picker_filter_system">Endast systemappar</string>
     <string name="home_invalid_apk_unreadable">Det gick inte att läsa filen. Kontrollera att Extern lagring inte har batteribegränsningar</string>
     <string name="home_invalid_apk_not_an_apk">Den valda filen är inte en giltig APK-fil</string>
+    <string name="home_invalid_apk_already_patched">Den valda APK-filen är redan patchad. Välj den ursprungliga appen istället</string>
     <string name="home_invalid_apk_io_error">Det gick inte att öppna filen. Försök igen</string>
     <string name="home_external_apk_expert_mode_required">Den här funktionen är endast tillgänglig i expertläget</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->

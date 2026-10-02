@@ -275,6 +275,7 @@
     <string name="home_installed_app_picker_filter_system">Само системске апликације</string>
     <string name="home_invalid_apk_unreadable">Није могуће прочитати датотеку. Проверите да \'Екстерна складишта\' није ограничено од стране батерије</string>
     <string name="home_invalid_apk_not_an_apk">Избрана датотека није валидан APK.</string>
+    <string name="home_invalid_apk_already_patched">Изабрани APK је већ закрпљен. Изаберите оригиналну апликацију уместо тога</string>
     <string name="home_invalid_apk_io_error">Није успело отварање датотеке. Поново покушајте.</string>
     <string name="home_external_apk_expert_mode_required">Ова функција је доступна само у режиму за напредне кориснике</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->

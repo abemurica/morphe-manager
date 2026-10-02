@@ -275,6 +275,7 @@ Sve što dodate sa ove veb stranice koristite na sopstvenu odgovornost."</string
     <string name="home_installed_app_picker_filter_system">Samo sistemske aplikacije</string>
     <string name="home_invalid_apk_unreadable">Nije moguće pročitati datoteku. Proverite da \'Eksternu memoriju\' ne ograničava baterija</string>
     <string name="home_invalid_apk_not_an_apk">Odabrana datoteka nije validan APK</string>
+    <string name="home_invalid_apk_already_patched">Izabrani APK je već zakrpljen. Izaberite originalnu aplikaciju umesto toga</string>
     <string name="home_invalid_apk_io_error">Nije uspelo otvaranje datoteke. Molimo pokušajte ponovo</string>
     <string name="home_external_apk_expert_mode_required">Ova funkcionalnost je dostupna samo u režimu stručnjaka.</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->

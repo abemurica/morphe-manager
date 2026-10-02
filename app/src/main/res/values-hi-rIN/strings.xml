@@ -275,6 +275,7 @@
     <string name="home_installed_app_picker_filter_system">केवल सिस्टम ऐप</string>
     <string name="home_invalid_apk_unreadable">फ़ाइल पढ़ने में असमर्थ। जाँच करें कि \'External Storage\' बैटरी द्वारा प्रतिबंधित तो नहीं है</string>
     <string name="home_invalid_apk_not_an_apk">चयनित फ़ाइल एक वैध APK नहीं है</string>
+    <string name="home_invalid_apk_already_patched">चयनित APK पहले से ही पैच किया हुआ है। इसके बजाय मूल ऐप चुनें</string>
     <string name="home_invalid_apk_io_error">फ़ाइल खोलने में विफल। कृपया फिर से प्रयास करें</string>
     <string name="home_external_apk_expert_mode_required">यह सुविधा केवल विशेषज्ञ मोड में उपलब्ध है</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->

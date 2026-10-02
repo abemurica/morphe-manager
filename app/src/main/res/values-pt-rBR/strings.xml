@@ -275,6 +275,7 @@ Tudo o que você adicionar a partir deste site é por sua conta e risco"</string
     <string name="home_installed_app_picker_filter_system">Apenas aplicativos do sistema</string>
     <string name="home_invalid_apk_unreadable">Não foi possível ler o arquivo. Verifique se o \'Armazenamento Externo\' não está com o uso da bateria restrito</string>
     <string name="home_invalid_apk_not_an_apk">O arquivo selecionado não é um APK válido</string>
+    <string name="home_invalid_apk_already_patched">O APK selecionado já foi patchado. Selecione o aplicativo original em vez disso</string>
     <string name="home_invalid_apk_io_error">Falha ao abrir o arquivo. Tente novamente</string>
     <string name="home_external_apk_expert_mode_required">Este recurso está disponível apenas no Modo Expert</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->

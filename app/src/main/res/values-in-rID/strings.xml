@@ -275,6 +275,7 @@ Segala sesuatu yang Anda tambahkan dari situs web ini digunakan atas risiko Anda
     <string name="home_installed_app_picker_filter_system">Hanya aplikasi sistem</string>
     <string name="home_invalid_apk_unreadable">Tidak dapat membaca berkas. Periksa apakah \'Penyimpanan Eksternal\' tidak dibatasi baterai</string>
     <string name="home_invalid_apk_not_an_apk">Berkas yang dipilih bukan APK yang sah</string>
+    <string name="home_invalid_apk_already_patched">APK yang dipilih sudah di-patch. Pilih aplikasi asli sebagai gantinya</string>
     <string name="home_invalid_apk_io_error">Gagal membuka berkas. Silakan coba lagi</string>
     <string name="home_external_apk_expert_mode_required">Fitur ini hanya tersedia dalam Mode Ahli</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->

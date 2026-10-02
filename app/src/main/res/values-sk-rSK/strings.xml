@@ -275,6 +275,7 @@
     <string name="home_installed_app_picker_filter_system">Iba systémové aplikácie</string>
     <string name="home_invalid_apk_unreadable">Nepodarilo sa prečítať súbor. Skontrolujte, či \'Externé úložisko\' nie je obmedzené v spotrebe batérie</string>
     <string name="home_invalid_apk_not_an_apk">Vybraný súbor nie je platný APK</string>
+    <string name="home_invalid_apk_already_patched">Vybraný APK je už opatchovaný. Namiesto toho vyberte pôvodnú aplikáciu</string>
     <string name="home_invalid_apk_io_error">Nepodarilo sa otvoriť súbor. Skúste to znova</string>
     <string name="home_external_apk_expert_mode_required">Táto funkcia je dostupná iba v expert móde</string>
     <!-- Home Screen - Dialog 4: Expert Mode Dialog -->
